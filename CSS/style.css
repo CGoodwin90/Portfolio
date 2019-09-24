@@ -1,0 +1,15 @@
+@import url("components/banner.css");  
+@import url("components/cards.css");  
+@import url("components/footer.css");  
+@import url("components/navbar.css");  
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 32px;
+    width: 80%;
+}
