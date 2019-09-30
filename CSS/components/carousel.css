@@ -1,0 +1,9 @@
+#portfolioslides {
+    height: 30%;
+    width: 60%;
+    margin-left: 32px;
+  }
+
+#portfolioslides img {
+    border-radius: 16px;
+}
