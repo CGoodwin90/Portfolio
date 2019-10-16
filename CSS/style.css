@@ -8,9 +8,22 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.work-cont {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 100%;
+  background-color: #6c63ff;
+  padding: 32px 32px 80px 32px;
+  margin-bottom: 16px;
+}
+
+.work-cont h1 {
+  color: white;
+  padding-left: 200px;
+}
+
 .container {
-    display: flex;
-    justify-content: space-between;
     margin-bottom: 32px;
     width: 80%;
 }
