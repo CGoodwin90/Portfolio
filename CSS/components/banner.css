@@ -1,12 +1,12 @@
 .banner {
-    padding: 80px 0;
+    padding: 8px 0;
   }
 
   .banner h1 {
     margin: 0;
     color: rgb(50, 50, 50);
     text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
-    font-size: 64px;
+    font-size: 56px;
     font-weight: bold;
     line-height: 2;
   }
@@ -19,19 +19,24 @@
   }
 
   .banner img {
-    width: 100%;
+    width: 40%;
+    height: 40%;
+    display: block;
+    margin: 0 auto;
+    padding: 16px 0;
   }
 
   .banner .container {
-    display: flex;
     align-items: center;
   }
 
   .banner .container h1 {
-    /* border: 2px solid #3f3d56; */
-    color: #6c63ff;
-    border-bottom: 2px solid #3f3d56;
-    border-left: 2px solid #3f3d56;
-    padding-left: 16px;
+    text-decoration: underline #6c63ff;
     text-shadow: rgba(50, 50 ,50, 0.8) 1px 1px;
+    text-align: center;
+  }
+
+  .banner .container h4 {
+    font-weight: 300;
+    text-align: center;
   }
