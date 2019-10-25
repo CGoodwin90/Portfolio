@@ -8,8 +8,8 @@
 
   .work-cont h4 {
     color: #FFF;
-    padding-bottom: 32px;
-
+    padding-bottom: 16px;
+    border-bottom: 2px solid white;
   }
   
 .work-header {
