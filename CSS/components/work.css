@@ -9,13 +9,21 @@
   .work-cont h4 {
     color: #FFF;
     padding-bottom: 16px;
-    border-bottom: 2px solid white;
   }
   
 .work-header {
     color: white;
-    text-align: center;
+    text-align: left;
     padding-bottom: 32px;
+  }
+
+  .work-header h1 {
+    font-size: 46px;
+    padding-bottom: 8px;    
+  }
+
+  .work-header h6 {
+    padding-left: 70px;
   }
 
 .recent-work {
@@ -40,6 +48,7 @@
 
 .wingit-info {
     margin-left: 170px;
+    
 }
 
 .h4h-info h4 {
@@ -47,10 +56,14 @@
 }
 
 .project1-languages {
+    border-top: 2px solid white;
     margin-left: -120px;
+    padding-top: 16px;
 }
 
 .project2-languages {
+    border-top: 2px solid white;
+    padding-top: 16px;
     margin-right: 160px;
 }
 

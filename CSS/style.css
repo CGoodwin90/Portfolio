@@ -1,8 +1,12 @@
+@import url("components/about.css");
 @import url("components/banner.css");
+@import url("components/button.css");
 @import url("components/cards.css");
 @import url("components/carousel.css");
+@import url("components/collaborate.css");
 @import url("components/footer.css");
 @import url("components/navbar.css");
+@import url("components/skills.css");
 @import url("components/work.css");
 
 body {
@@ -14,32 +18,3 @@ body {
     width: 80%;
 }
 
-.about-section {
-  width: 80%;
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
-}
-
-.about-section h1 {
-  color: #6c63ff;
-  text-align: center;
-}
-
-.about-section img {
-  border-radius: 50%;
-}
-
-.about-cont {
-  display: flex;
-  justify-content: space-between;
-  margin: 40px 0;
-
-}
-
-.about-text p {
-  width: 80%;
-  text-align: center;
-  margin-left: 32px;
-}
