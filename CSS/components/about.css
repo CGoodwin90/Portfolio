@@ -1,7 +1,7 @@
 .about-section {
     width: 100%;
-    padding: 100px 15px;
-    margin: -40px auto 0 auto;
+    padding: 120px 15px;
+    margin-top: -60px;
     background-color: #6c63ff;
     color: white;
     text-align: center;
@@ -12,10 +12,9 @@
   }
 
   .about-synopsis {
-    width: 50%;
-    text-align: center;
     color: white;
-    padding-left: 120px;
+    width: 50%;
     line-height: 2;
-    margin: auto 280px;
+    margin: 0 auto;
+    text-align: center;
   }

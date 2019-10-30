@@ -1,21 +1,5 @@
 .collaborate-section {
     text-align: center;
-    color: white;
-    width: 0;
-    height: 0;
-    border-style: solid;
-    border-width: 200px 400px 0 400px;
-    border-color: #6c63ff transparent transparent transparent;
-    margin-left: 22.5%;
-  }
-
-  .contact-text {
-      margin-top: -200px;
-      margin-left: -165px;
-      text-align: left;
-      width: 400px;
-  }
-
-  .contact-text h1 {
-      padding-top: 24px;
+    color: #6c63ff;
+    margin: 40px auto;
   }
