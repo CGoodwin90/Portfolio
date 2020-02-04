@@ -2,4 +2,13 @@
     text-align: center;
     color: #6c63ff;
     margin: 40px auto;
+    padding-bottom: 80px;
   }
+
+.collaborate-section-contact {
+  text-align: center;
+  background-color: #6c63ff;
+  color: #fff;
+  margin: 80px auto 0px auto;
+  padding: 16px;
+}

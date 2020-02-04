@@ -1,0 +1,31 @@
+.contact-info {
+    width: 80vw;
+    margin: 0 auto;
+    padding: 32px;
+    background-color: #6c63ff;
+    border-radius: 8px;
+}
+
+.contact-info a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.contact-info a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+.contact-info h1 {
+    color: #fff;
+}
+
+.contact-info .far {
+    font-size: 30px;
+    color: #fff;
+}
+
+.contact-info .fab {
+    font-size: 30px;
+    color: #fff;
+}

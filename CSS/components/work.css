@@ -55,6 +55,14 @@
     margin-left: 80px;
 }
 
+.flashcard-info {
+  margin-left: 80px;
+}
+
+.flashcard-info h4 {
+  margin-left: 200px;
+}
+
 .project1-languages {
     border-top: 2px solid white;
     margin-left: -120px;
@@ -77,7 +85,16 @@
     margin: 8px;
 }
 
+.project3-languages {
+  border-top: 2px solid white;
+  margin-left: 120px;
+  padding-top: 16px;
+}
 
+.project3-languages img {
+  height: 50px;
+  margin: 8px;
+}
 
 
 
